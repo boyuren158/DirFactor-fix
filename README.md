@@ -7,6 +7,8 @@ Dirichlet factor analysis model with fixed effects and its application in microb
 
 * **R/diabimmune_analysis.R**: script used to analyze the Diabimmune dataset based on the mixed effects model.
 
+* **R/sim_compare.R**: example script used to compare the performance of DirFactor and MIMIX.
+
 * **R/utilities.R**: useful helper functions.
 
 * **data/diabimmune_genus.txt**: OTU table collapsed to genus level for Diabimmune project. Shotgun sequencing results.
