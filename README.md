@@ -11,6 +11,8 @@ Dirichlet factor analysis model with fixed effects and its application in microb
 
 * **R/utilities.R**: useful helper functions.
 
+* **R/Added_simulations/**: source scripts for the added simulation analyses in the most recent submission.
+
 * **data/diabimmune_genus.txt**: OTU table collapsed to genus level for Diabimmune project. Shotgun sequencing results.
 
 * **data/DIABIMMUNE_metadata_full.RData**: RData object for all relevant metadadata.
